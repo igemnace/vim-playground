@@ -1,3 +1,4 @@
+" Author: romainl on #vim
 
 function! s:Get_env() abort
     if has('win64') || has('win32') || has('win16')
